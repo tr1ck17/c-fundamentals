@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Spencifer\\source\\repos\\array_reverse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF0C2C3-FCFC-4F6E-897E-2F6DF9B92932}|array_reverse\\array_reverse.vcxproj|C:\\Users\\Spencifer\\source\\repos\\array_reverse\\array_reverse\\file.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EBF0C2C3-FCFC-4F6E-897E-2F6DF9B92932}|array_reverse\\array_reverse.vcxproj|solutionrelative:array_reverse\\file.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "file.c",
+              "DocumentMoniker": "C:\\Users\\Spencifer\\source\\repos\\array_reverse\\array_reverse\\file.c",
+              "RelativeDocumentMoniker": "array_reverse\\file.c",
+              "ToolTip": "C:\\Users\\Spencifer\\source\\repos\\array_reverse\\array_reverse\\file.c",
+              "RelativeToolTip": "array_reverse\\file.c",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwBIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-08T02:09:50.869Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

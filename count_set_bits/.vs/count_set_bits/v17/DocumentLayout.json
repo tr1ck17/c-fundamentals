@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Spencifer\\source\\repos\\count_set_bits\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1505B355-1186-4C11-928E-BBED2BE8AE5D}|count_set_bits\\count_set_bits.vcxproj|C:\\Users\\Spencifer\\source\\repos\\count_set_bits\\count_set_bits\\file.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1505B355-1186-4C11-928E-BBED2BE8AE5D}|count_set_bits\\count_set_bits.vcxproj|solutionrelative:count_set_bits\\file.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "file.c",
+              "DocumentMoniker": "C:\\Users\\Spencifer\\source\\repos\\count_set_bits\\count_set_bits\\file.c",
+              "RelativeDocumentMoniker": "count_set_bits\\file.c",
+              "ToolTip": "C:\\Users\\Spencifer\\source\\repos\\count_set_bits\\count_set_bits\\file.c",
+              "RelativeToolTip": "count_set_bits\\file.c",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-08T02:23:22.363Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

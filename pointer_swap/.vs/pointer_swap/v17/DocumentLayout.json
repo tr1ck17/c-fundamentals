@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Spencifer\\source\\repos\\pointer_swap\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D466731-B1C8-46D1-AB66-066BCB20EB5C}|pointer_swap\\pointer_swap.vcxproj|C:\\Users\\Spencifer\\source\\repos\\pointer_swap\\pointer_swap\\file.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4D466731-B1C8-46D1-AB66-066BCB20EB5C}|pointer_swap\\pointer_swap.vcxproj|solutionrelative:pointer_swap\\file.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "file.c",
+              "DocumentMoniker": "C:\\Users\\Spencifer\\source\\repos\\pointer_swap\\pointer_swap\\file.c",
+              "RelativeDocumentMoniker": "pointer_swap\\file.c",
+              "ToolTip": "C:\\Users\\Spencifer\\source\\repos\\pointer_swap\\pointer_swap\\file.c",
+              "RelativeToolTip": "pointer_swap\\file.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-08T02:21:16.437Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
